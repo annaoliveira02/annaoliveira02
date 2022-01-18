@@ -1,7 +1,7 @@
 Hello! I'm Anna 
 
 - 🔭 I’m currently studying Full-stack Web Development at Kenzie Academy Brasil 
-- 🌱 I’m currently learning Python and PostgreSQL
+- 🌱 I’m currently learning Node.js, Django and MongoDB.
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I went to nursing school before getting into web development (!)
 
